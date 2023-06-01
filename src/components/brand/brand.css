@@ -1,4 +1,4 @@
-.gpt3__brand{
+.gpt3__brand {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -16,6 +16,4 @@
     align-items: center;
 }
 
-.gpt3__brand img{
-    padding: 1rem;
-}
+
